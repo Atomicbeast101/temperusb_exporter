@@ -3,7 +3,7 @@ Prometheus exporter to display metrics from TemperUSB device(s).
 
 ## Requirements
 * Python v3
-* Following pip3 packages: `prometheus_client pyserial`
+* Following pip3 packages: `prometheus_client pyserial temper-py`
 
 ## Usage
 ```py
